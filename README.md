@@ -9,18 +9,18 @@ win
 mac
 linux
 
-Get github account
+Get github account !
 
-init
-add
-status
-branch
-touch
-vim
-commit
-merge
-.gitignore
-stash
+init !
+add !
+status !
+branch !
+touch !
+vim !
+commit !
+merge !
+.gitignore !
+stash !
 
 push 
 pull
