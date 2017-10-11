@@ -1,5 +1,5 @@
 
-# git-tutorial !!
+# git-tutorial
 Workshop material for git tutorial
 
 
@@ -17,7 +17,7 @@ Through out this workshop, we'll be using a set of new terminology.
 
 These terms will be explained as we go
 
-### Step 1. Set up
+### Step 1. Setting up
 First, make an account at [GitHub](https://github.com/join)
 
 Install git on your system following one of these guides:
@@ -25,7 +25,7 @@ Install git on your system following one of these guides:
 - [Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
 - [Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
 
-We will be editing text file in this workshop, so use whatever program you're most confortable with (Sublime, Atom, Default text editor, etc)
+We will be editing text file in this workshop, so use whatever program you're most confortable with (Sublime, Atom, Default text editor, etc.)
 
 Lastly, run these initial set up commands on your terminal
 
@@ -40,7 +40,7 @@ $ git config --global user.email "email"
 And you're ready to start using Git!
 
 ### Step 2. Fork and clone
-Next step is to [fork](https://help.github.com/articles/fork-a-repo/) this repo!
+Next step is to [fork](https://help.github.com/articles/fork-a-repo/) this [repo](https://github.com/startupstorm/git-tutorial)!
 
 1. Fork the repo
 Click on the top right button on this page that's saying "Fork".  
@@ -53,6 +53,7 @@ Click on "Clone or download" green button on your clone git-tutorial repo
 Copy the link!
 
 Go to your terminal and type in the following at the location you want to copy the project
+Alternatively, right-click your mouse and press "paste"
 
 ```
 $ git clone https://github.com/YOUR_USER_NAME/git-tutorial
@@ -60,7 +61,7 @@ $ git clone https://github.com/YOUR_USER_NAME/git-tutorial
 
 Conglatulations :tada: you just copied the project to your computer!
 
-### Step 3. First contribution
+### Step 3. First Contribution
 Make your own branch, and switch to it
 
 ```
@@ -78,7 +79,7 @@ $ git status
 You should see `/attendees` directory / folder  
 Create and add a new file in this directory following the instructions in `/attendees/guide.txt`
 
-Let's commit the changes you've made. Run these command to add and comit the changes.
+Let's commit the changes you've made. Run these commands to add and comm	it the changes.
 
 ```
 $ git add .
@@ -104,9 +105,9 @@ Afterward, you should see you pull request on the original project's PR list
 ![Your PR shown here](https://i.imgur.com/qb048Tn.png)
 
 That's it! You just did the whole flow of doing open source :tada:  
-Let one of the organizers know that you did this step, and we'll merge you PR right away.
+Let one of the organizers know that you did this step, and we'll merge your PR right away.
 
-### Step 5. PULLING + ADDING
+### Step 5. PULLING & ADDING
 
 Let's return to the master branch for a second
 
@@ -114,7 +115,7 @@ Let's return to the master branch for a second
 $ git checkout master
 ```
 
-Wait until the organizer add a new file to the project.
+Wait until the organizers add a new file to the project.
 Common thing that will happen is that some other people add a new file to the project.  
 There should be a way to get the latest version of the project, and there is one.
 
