@@ -20,6 +20,8 @@ These terms will be explained as we go
 ### Step 1. Setting up
 First, make an account at [GitHub](https://github.com/join)
 
+Second, [sign up for Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register) with few clicks
+
 Install git on your system following one of these guides:
 - [OS X](https://www.atlassian.com/git/tutorials/install-git#mac-os-x)
 - [Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
