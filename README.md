@@ -1,6 +1,7 @@
-# git-tutorial
-Workshop material for StartupStorm's Git tutorial  
-If you see any type / improvements, feel free to send us a PR
+
+# git-tutorial !!
+Workshop material for git tutorial
+
 
 ![Git Logo](https://git-for-windows.github.io/img/git_logo.png)
 
