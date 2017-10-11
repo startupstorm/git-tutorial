@@ -49,7 +49,7 @@ At this poing the URL of the page should be `https://github.com/YOUR_USER_NAME/g
 
 2. Clone the repo
 Click on "Clone or download" green button on your clone git-tutorial repo
-![This green button](https://imgur.com/vK3c3Lu)
+![This green button](https://i.imgur.com/vK3c3Lu.png)
 Copy the link!
 
 Go to your terminal and type in the following at the location you want to copy the project
@@ -69,15 +69,16 @@ $ git branch add-YOUR_NAME
 $ git checkout add-YOUR_NAME
 ```
 
-Add your name to attendes.txt and save it  
+You should see `/attendees` directory / folder  
+Create and add a new file in this directory following the instructions in `/attendees/guide.txt`
+
 At this point if you run 
 
 ```
 $ git status
 ```
 
-You should see `/attendees` directory / folder  
-Create and add a new file in this directory following the instructions in `/attendees/guide.txt`
+You should see `/attendees` directory / folder once again.
 
 Let's commit the changes you've made. Run these commands to add and comm	it the changes.
 
@@ -125,7 +126,7 @@ Run this command
 $ git remote add upstream https://github.com/startupstorm/git-tutorial
 ```
 
-This command will create a new remote endpoint at our original project repo, named `ss`
+This command will create a new remote endpoint at our original project repo, named `upstream`
 To pull, you run
 
 ```
