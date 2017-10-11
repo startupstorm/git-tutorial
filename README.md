@@ -156,13 +156,13 @@ To understand how it works, let's create a new branch
 $ git checkout commit-ammend-YOUR_NAME
 ```
 
-Inside your `./attendees/YOUR_NAME.txt`, add a few sentence long bio
+Inside your `./attendees/YOUR_NAME.txt`, add line to state which year + program you are in
 
 Let's commit this in a normal manner
 
 ```
 $ git add .
-$ git commit -m "Add bio"
+$ git commit -m "Add year + program"
 ```
 
 After you made the commit, check the commit message shown in the log
@@ -170,12 +170,12 @@ After you made the commit, check the commit message shown in the log
 $ git log
 ```
 
-Now, let's say that this project required contributers to specify which file you changed.
+Now, let's say that this project required contributers to write commit messages in all caps.
 Since the code change itself is okay but just the commit message, this is a great use case for amend
 
 Run the following command
 ```
-$ git commit --amend "Add bio to YOUR_NAME.txt"
+$ git commit --amend "ADD YEAR + PROGRAM"
 ```
 
 Run log again to verify that the commit message has been updated.
