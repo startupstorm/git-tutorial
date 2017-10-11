@@ -13,6 +13,7 @@ Through out this workshop, we'll be using a set of new terminology.
 - **Pushing** your code is to push your local file change to GitHub
 - **Pulling** code is to get the latest version of files from a GitHub repo
 
+
 These terms will be explained as we go
 
 ### Step 1. Set up
