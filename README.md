@@ -15,21 +15,21 @@ Through out this workshop, we'll be using a set of new terminology.
 - **Pulling** code is to get the latest version of files from a GitHub repo
 
 
-These terms will be explained as we go
+These terms will be explained as we go.
 
-### Step 1. Setting up
+### Step 1. Setting Up
 First, make an account at [GitHub](https://github.com/join)
 
-Second, [sign up for Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register) with few clicks
+Second, sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register).
 
-Install git on your system following one of these guides:
+Install Git on your system following one of these guides:
 - [OS X](https://www.atlassian.com/git/tutorials/install-git#mac-os-x)
 - [Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
 - [Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
 
 We will be editing text file in this workshop, so use whatever program you're most confortable with (Sublime, Atom, Default text editor, etc.)
 
-Lastly, run these initial set up commands on your terminal
+Lastly, run these initial set up commands on your terminal.
 
 ```
 // Set name shown under your git commit
@@ -140,7 +140,7 @@ You should now see new files in your computer!
 ## Challenge Problems
 ### Extra 1
 
-As you go learn git, there will be many new commands you'll learn along the way.
+As you learn git, there will be many new commands you'll learn along the way.
 
 One of them is `git log` command which shows you the past git commits of the branch.
 
