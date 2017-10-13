@@ -12,7 +12,7 @@ Through out this workshop, we'll be using a set of new terminology.
 - **Fork** is an act of copying the project. This ia a recommended approach to make a pull request.
 - **Pull Request (PR)** is sending the code edit you made to the project you intend to contribute to.
 - **Pushing** your code is to push your local file change to GitHub
-- **Pulling** code is to get the latest version of files from a GitHub repo
+- **Pulling** the code is to get the latest version of files from a GitHub repo
 
 
 These terms will be explained as we go.
