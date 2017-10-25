@@ -66,12 +66,14 @@ Conglatulations :tada: you just copied the project to your computer!
 ### Step 3. First Contribution
 Make your own branch, and switch to it
 
+Make sure that you're inside git-tutorial folder before typing the two commands below. 
+
 ```
 $ git branch add-YOUR_NAME
 $ git checkout add-YOUR_NAME
 ```
 
-You should see `/attendees` directory / folder  
+You should see `/attendees` directory / folder
 Create and add a new file in this directory following the instructions in `/attendees/guide.txt`
 
 At this point if you run 
